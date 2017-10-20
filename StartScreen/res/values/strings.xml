@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="hello">This is a Start Screen</string>
+    <string name="app_name">Example Pass Data Types between Activities</string>
+    <string name="play_game">Play Game</string>
+	<string name="end_game">Done?</string>
+	<string name="startscreen_text">Start Screen</string>
+	
+</resources>

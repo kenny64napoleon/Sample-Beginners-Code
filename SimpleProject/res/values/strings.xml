@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">Simple Project</string>
+	<string name="simplesimonclass">Simple Simon</string>
+	<string name="hello">hello</string>
+	
+	<color name="prettyTextColor">#ff0000</color>
+	
+	<dimen name="textPointSize">14pt</dimen>
+	
+	<drawable name ="redDrawable">#F00</drawable>
+	
+	<string-array name="flavours">
+	    
+	    <item>Vanilla</item>
+	    <item>Chocolate</item>
+	    <item>Mango</item>
+	    
+	    
+	</string-array>
+	
+	<string name="winlose">Score: %1$d of %2$d ! You %3$d. &lt </string>
+	
+	<bool name="bOnePlusOneEqualsTwo">true</bool>
+	<bool name="bAdvancedFeaturesEnabled">false</bool>
+	
+	<integer name="numTimesToRepeat">25</integer>
+	<integer name="startingAgeOfCharacter">3</integer>
+	
+	<drawable name="ImageView01"></drawable>
+	
+	
+	
+</resources>
